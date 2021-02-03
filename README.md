@@ -1,2 +1,2 @@
 # brickBreaker-Vanilla-js
-brick breaker game using vanilla js, html css
+This is a brick breaker game using html css and vanilla js.
